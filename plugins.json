@@ -90,24 +90,5 @@
         "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
         "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHPandaProvider_1733393561.cs3",
         "name": "HHPandaProvider"
-    },
-    {
-        "iconUrl": "https://hhtm.site/storage/settings/July2024/3lXnhx2D9su1L7ikma82.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 18582,
-        "status": 1,
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 13,
-        "internalName": "HHTMProvider",
-        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
-        "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHTMProvider_1733393561.cs3",
-        "name": "HHTMProvider"
     }
 ]
