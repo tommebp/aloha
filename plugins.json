@@ -1,17 +1,17 @@
 [
-   {
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 14635,
+        "fileSize": 17742,
         "status": 1,
         "authors": [
-            "anhdadendaden"
+            "anhdaden"
         ],
         "tvTypes": [
             "Anime"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "AnimeHayProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=AnimeHayProvider_1733393561.cs3",
         "name": "AnimeHayProvider"
@@ -20,15 +20,15 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.app&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 19075,
+        "fileSize": 21595,
         "status": 1,
         "authors": [
-            "anhdadendaden"
+            "anhdaden"
         ],
         "tvTypes": [
             "Anime"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "AnimeVietsubProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=AnimeVietsubProvider_1733393561.cs3",
         "name": "AnimeVietsubProvider"
@@ -37,13 +37,12 @@
         "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 77875,
+        "fileSize": 80112,
         "status": 1,
         "authors": [
-            "anhdadendaden"
+            "anhdaden"
         ],
         "tvTypes": [
-            "AsianDrama",
             "Anime",
             "TvSeries",
             "Movie"
@@ -58,16 +57,16 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.shop&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 18084,
+        "fileSize": 20359,
         "status": 1,
         "authors": [
-            "anhdadendaden"
+            "anhdaden"
         ],
         "tvTypes": [
             "Anime",
             "AnimeMovie"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "HHkungfuProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
         "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHkungfuProvider_1733393561.cs3",
@@ -77,18 +76,37 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhpanda.tube&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 15021,
+        "fileSize": 17645,
         "status": 1,
         "authors": [
-            "anhdadendaden"
+            "anhdaden"
         ],
         "tvTypes": [
             "Anime"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "HHPandaProvider",
         "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
         "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHPandaProvider_1733393561.cs3",
         "name": "HHPandaProvider"
+    },
+    {
+        "iconUrl": "https://hhtm.site/storage/settings/July2024/3lXnhx2D9su1L7ikma82.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 20809,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 14,
+        "internalName": "HHTMProvider",
+        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
+        "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHTMProvider_1733393561.cs3",
+        "name": "HHTMProvider"
     }
 ]
