@@ -1,4 +1,5 @@
-{
+[
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -32,7 +33,7 @@
         "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=AnimeVietsubProvider_1733393561.cs3",
         "name": "AnimeVietsubProvider"
     },
-         {
+    {
         "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -107,4 +108,5 @@
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
         "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHTMProvider_1733393561.cs3",
         "name": "HHTMProvider"
-    },
+    }
+]
