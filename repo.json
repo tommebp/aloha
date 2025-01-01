@@ -3,6 +3,6 @@
     "description": "https://t.me/cloudstream_extension_vn",
     "manifestVersion": 18,
     "pluginLists": [
-      "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/FshareProvider.cs3"
+      "https://raw.githubusercontent.com/tommebp/aloha/refs/heads/main/plugins.json"
     ]
 }
