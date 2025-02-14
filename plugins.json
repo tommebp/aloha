@@ -54,24 +54,6 @@
         "name": "FshareProvider"
     },
     {
-        "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 31567,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 8,
-        "internalName": "IPTVProvider",
-        "description": "C\u1ea7n nh\u1eadp link IPTV \u0111\u1ec3 xem",
-        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/IPTVProvider.cs3",
-        "name": "IPTVProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.shop&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
