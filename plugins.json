@@ -37,7 +37,7 @@
         "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 95360,
+        "fileSize": 102150,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -47,7 +47,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 21,
+        "version": 23,
         "internalName": "FshareProvider",
         "description": "Download FullHD, 2K, 4K with Fshare Vip account",
         "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/FshareProvider.cs3",
