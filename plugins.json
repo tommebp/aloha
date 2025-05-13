@@ -47,7 +47,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 23,
+        "version": 24,
         "internalName": "FshareProvider",
         "description": "Download FullHD, 2K, 4K with Fshare Vip account",
         "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/FshareProvider.cs3",
